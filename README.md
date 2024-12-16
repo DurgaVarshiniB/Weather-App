@@ -1,9 +1,10 @@
 WEATHER FORECASTING APP:
   
-  The Weather App is a simple web application that allows users to check real-time weather information for any city around the world. 
-  This application utilizes the OpenWeatherMap API to fetch current weather data, providing temperature, humidity, and weather conditions in an easy-to-read format.
+The Weather App is a simple web application that allows users to check real-time weather information for any city around the world. 
+This application utilizes the OpenWeatherMap API to fetch current weather data, providing temperature, humidity, and weather conditions in an easy-to-read format.
 
 FEATURES:
+
 Real-Time Weather Data: Fetches current weather data based on user-input city names.
 
 User-Friendly Interface: Simple and intuitive design for easy navigation.
