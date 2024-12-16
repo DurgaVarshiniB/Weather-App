@@ -1,10 +1,9 @@
 WEATHER FORECASTING APP:
-
-The Weather App is a simple web application that allows users to check real-time weather information for any city around the world. 
-This application utilizes the OpenWeatherMap API to fetch current weather data, providing temperature, humidity, and weather conditions in an easy-to-read format.
+  
+  The Weather App is a simple web application that allows users to check real-time weather information for any city around the world. 
+  This application utilizes the OpenWeatherMap API to fetch current weather data, providing temperature, humidity, and weather conditions in an easy-to-read format.
 
 FEATURES:
-
 Real-Time Weather Data: Fetches current weather data based on user-input city names.
 
 User-Friendly Interface: Simple and intuitive design for easy navigation.
@@ -44,4 +43,7 @@ Generate a new API key and copy it.
 In the project directory, locate the script.js file. Inside this file, you will find a constant called API_KEY.
 
 Replace the placeholder value 'YOUR_API_KEY' with your actual API key obtained from OpenWeatherMap.
+
+SNAPSHAT:
+![s2](https://github.com/user-attachments/assets/d54d40f6-3b78-4090-b65e-fd8a349d2ade)
 
